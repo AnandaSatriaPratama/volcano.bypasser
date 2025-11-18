@@ -11,7 +11,7 @@
 // @grant        GM_setClipboard
 // @icon         https://shorturl.at/eNOJ9
 // @connect      *
-// @downloadURL  https://raw.githubusercontent.com/AnandaSatriaPratama/volcano.bypasser/refs/heads/main/volcano.js
-// @updateURL    https://raw.githubusercontent.com/AnandaSatriaPratama/volcano.bypasser/refs/heads/main/volcano.js
-// @require      https://raw.githubusercontent.com/AnandaSatriaPratama/volcano.bypasser/refs/heads/main/bypass.js
+// @downloadURL  https://github.com/AnandaSatriaPratama/volcano.bypasser/raw/refs/heads/main/volcano.js
+// @updateURL    https://github.com/AnandaSatriaPratama/volcano.bypasser/raw/refs/heads/main/volcano.js
+// @require      https://github.com/AnandaSatriaPratama/volcano.bypasser/raw/refs/heads/main/bypass.js
 // ==/UserScript==
