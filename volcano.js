@@ -13,5 +13,5 @@
 // @connect      *
 // @downloadURL  https://github.com/AnandaSatriaPratama/volcano.bypasser/raw/main/volcano.js
 // @updateURL    https://github.com/AnandaSatriaPratama/volcano.bypasser/raw/main/volcano.js
-// @require https://github.com/AnandaSatriaPratama/volcano.bypasser/raw/refs/heads/main/bypass.js
+// @require      https://raw.githubusercontent.com/AnandaSatriaPratama/volcano.bypasser/refs/heads/main/bypass.js
 // ==/UserScript==
